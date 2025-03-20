@@ -20,6 +20,20 @@ This project explores reinforcement learning (RL) and generative models through 
 - **GAN with U-Net**: A Generative Adversarial Network incorporating a U-Net architecture is used to colorize grayscale images.
 
 ## 📊 Results
-LunarLander with Genetic Algorithm: The agent evolves over generations, showing improvements in landing stability.
-DQN Agent: The agent learns an optimal landing policy, surpassing the genetic algorithm in efficiency.
-GAN U-Net Colorizer: The model successfully learns to colorize grayscale images with realistic outputs.
+- **LunarLander with Genetic Algorithm**: The agent evolves over generations, showing improvements in landing stability.
+
+<p align="center">
+  <img src="Reinforcement_Learning/graph_blending_P2.png" alt="LunarLander" width="600"/>
+</p>
+
+- **DQN Agent**: The agent learns an optimal landing policy, surpassing the genetic algorithm in efficiency.
+
+<p align="center">
+  <img src="Reinforcement_Learning/graph_dqn.png" alt="LunarLander" width="600"/>
+</p>
+
+- **GAN U-Net Colorizer**: The model successfully learns to colorize grayscale images with realistic outputs.
+
+<p align="center">
+ <img src="Generative_Adversarial_Networks/images_predictions.png" alt="LunarLander" width="300"/>
+</p>
